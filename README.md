@@ -1,6 +1,6 @@
 # Admin-Dashboard
 
-This application is an Admin dashboar made in Laravel 8. Here you can create a new user and log in with default Laravel auth routes. Inside de application you have three kinds of
+This application is an Admin dashboar made in Laravel 8. Here you can create a new user and log in with default Laravel auth routes. Inside the application you have three kinds of
 pre-made roles. You can only see all the features if you are an Admin. While Admin you can:
 
 • See a list of all users;
