@@ -8,6 +8,7 @@ kinds of pre-made roles. You can only see all the features if you are an Admin. 
 - Update and Delete existing roles;
 - Create new Permissions;
 - Update or delete existing permissions;
+- Add permissions to an user;
 
 All users can access your profile, edit your personal data and even upload a profile image.
 
@@ -21,3 +22,4 @@ This application was made in this [Udemy Course](https://www.udemy.com/course/ph
 ![SS 4](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/4.png)
 ![SS 5](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/5.png)
 ![SS 6](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/6.png)
+![SS 7](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/7.png)
