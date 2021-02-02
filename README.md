@@ -12,3 +12,7 @@ kinds of pre-made roles. You can only see all the features if you are an Admin. 
 All users can access your profile, edit your personal data and even upload a profile image.
 
 This application was made in this [Udemy Course](https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel).
+
+# Screenshots
+
+![SS 1](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/1.png)
