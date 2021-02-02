@@ -20,3 +20,4 @@ This application was made in this [Udemy Course](https://www.udemy.com/course/ph
 ![SS 3](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/3.png)
 ![SS 4](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/4.png)
 ![SS 5](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/5.png)
+![SS 6](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/6.png)
