@@ -16,3 +16,7 @@ This application was made in this [Udemy Course](https://www.udemy.com/course/ph
 # Screenshots
 
 ![SS 1](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/1.png)
+![SS 2](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/2.png)
+![SS 3](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/3.png)
+![SS 4](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/4.png)
+![SS 5](https://github.com/lucpena/Admin-Dashboard/blob/main/ss/5.png)
